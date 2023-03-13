@@ -80,9 +80,12 @@ a{
    .nav-menu.active{
       left: 0;
    }
-
 }
- .container {
+#searchbar{
+   padding:15px;
+   border-radius: 10px;
+ }
+.container {
    background-color: #eee;
    width: 600px;
    height: 600px ;
